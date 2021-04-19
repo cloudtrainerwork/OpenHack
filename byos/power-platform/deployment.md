@@ -51,7 +51,7 @@ Dynamics 365 + Power Platform OpenHack:
     -   AI Builder subscription
 -   Solutions
     -   Dynamics 365 Education Accelerator ([installed via AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365/mshied.educationcommondatamodel?tab=Overview))
-    -   [PowerPlatformOpenHacks.zip (Managed Solution)](deploy/PowerPlatformOpenHackThings.zip?raw=true)
+    -   [PowerPlatformOpenHacks.zip (Managed Solution)](https://github.com/Microsoft-OpenHack/dynamics-365-plus-power-platform/blob/main/resources/Education%20OpenHack%20Resource%20Files.zip?raw=true)
 -   Applications
     -   Power BI Desktop
 
